@@ -700,9 +700,9 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 
-.form-wrapper-cont {
+/* .form-wrapper-cont {
   margin-bottom: 8px;
-}
+} */
 
 .form-wrapper-comment {
     margin-bottom: 16px;
@@ -834,7 +834,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .form-wrapper-cont {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 
