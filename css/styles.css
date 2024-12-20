@@ -699,6 +699,8 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   margin-bottom: 16px;
 }
 
+
+
 .form-wrapper-cont {
   margin-bottom: 8px;
 }
@@ -706,14 +708,15 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   display: block;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.17px;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
 
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
 .form-user-input {
   width: 100%;
+  left: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   width: 360px;
@@ -790,7 +793,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 .political-form {
   text-decoration: underline;
   color: #4d5ae5; 
-  
+
 }
 
 .castom-checkbox {
